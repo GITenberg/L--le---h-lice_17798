@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17798#L--le---h-lice
 gutenberg_bookshelf:
 - FR Science fiction
 - FR Littérature
